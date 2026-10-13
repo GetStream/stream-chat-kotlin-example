@@ -1,3 +1,5 @@
+> **This repository is archived and will be deleted.** It is no longer maintained. For a current alternative, see [the Chat Java docs](https://getstream.io/chat/docs/java/).
+
 # Kotlin example of [Chat Java SDK](https://github.com/getstream/stream-chat-java)
 
 You can sign up for a Stream account at https://getstream.io/chat/get_started/.
